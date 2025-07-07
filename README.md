@@ -17,7 +17,7 @@
 
 ## ✨ Overview
 
-**EventFlow** is a premium, full-stack event management platform that redefines how users discover, book, and manage events. Built with modern web technologies and designed with Apple-level aesthetics, EventFlow delivers a royal-grade user experience that sets new industry standards.
+**EventFlow** is a premium, full-stack event management platform that redefines how users discover, book, and manage events. Built with modern web technologies and designed with High-level aesthetics, EventFlow delivers a royal-grade user experience that sets new industry standards.
 
 ### 🎯 Key Highlights
 
