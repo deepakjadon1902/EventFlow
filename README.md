@@ -303,19 +303,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📈 Project Stats
 
-<div align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/eventflow?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/yourusername/eventflow?style=social" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/watchers/yourusername/eventflow?style=social" alt="GitHub watchers" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/issues/yourusername/eventflow" alt="GitHub issues" />
-  <img src="https://img.shields.io/github/issues-pr/yourusername/eventflow" alt="GitHub pull requests" />
-  <img src="https://img.shields.io/github/last-commit/yourusername/eventflow" alt="GitHub last commit" />
-</div>
 
 ---
 
