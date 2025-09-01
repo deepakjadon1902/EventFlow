@@ -311,6 +311,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <h3>🌟 If you found this project helpful, please give it a star! 🌟</h3>
   <p>Made with ❤️ by <a href="https://github.com/deepakjadon1902">Deepak Jadon</a></p>
 </div>
-#   E v e n t F l o w - - - E v e n t - M a n a g e m e n t - S y s t e m  
- #   E v e n t F l o w  
- 
