@@ -187,6 +187,9 @@ EventFlow/
 --royal-navy: #0d1b2a
 --royal-blue: #1e3a8a
 --royal-light: #3b82f6
+--red: #FF0000
+--black: #000000
+--white: #FFFFFF
 
 /* Theme Colors */
 --technology: #06b6d4 (cyan)
@@ -238,12 +241,12 @@ npm run db:seed      # Seed with sample data
 
 ## 🚀 Deployment
 
-### Netlify (Recommended)
-1. Connect your GitHub repository to Netlify
+### Vercel (Recommended)
+1. Connect your GitHub repository to Vercel
 2. Configure build settings:
    - **Build Command**: `npm run build`
    - **Publish Directory**: `dist`
-3. Add environment variables in Netlify dashboard
+3. Add environment variables in Vercel dashboard
 4. Deploy automatically on push to main branch
 
 ### Manual Deployment
@@ -305,9 +308,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 
 
----
 
 <div align="center">
   <h3>🌟 If you found this project helpful, please give it a star! 🌟</h3>
   <p>Made with ❤️ by <a href="https://github.com/deepakjadon1902">Deepak Jadon</a></p>
 </div>
+
