@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 <a href="https://willowy-kringle-c9dfde.netlify.app">Live Demo</a> | 📖 <a href="#documentation">Documentation</a> | 🎯 <a href="#features">Features</a></h3>
+  <h3>🚀 <a href="https://event-flow-silk.vercel.app/">Live Demo</a> | 📖 <a href="#documentation">Documentation</a> | 🎯 <a href="#features">Features</a></h3>
 </div>
 
 ---
@@ -313,4 +313,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   <h3>🌟 If you found this project helpful, please give it a star! 🌟</h3>
   <p>Made with ❤️ by <a href="https://github.com/deepakjadon1902">Deepak Jadon</a></p>
 </div>
+
 
